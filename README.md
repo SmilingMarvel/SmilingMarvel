@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SmilingMarvel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Making projects using Javascript, and programming for video games.
+- 🌱 I’m currently learning ... Javascript, C++, Python, and HTML
+- 📫 How to reach me ... jacjaden@gmail.com
 
 <!---
 SmilingMarvel/SmilingMarvel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
